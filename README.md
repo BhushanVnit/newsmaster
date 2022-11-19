@@ -1,8 +1,12 @@
 # NewsMaster
 
 ## NewMaster – News app using ReactJs and NesAPI
+
+
 -- Developed a web app using data from NewsAPI that shows the latest highlights and other category-wise news 
    for a good user experience.
+   
+   
 -- Tech Stack Used – ReactJs, NewsAPI 
 
 Some screenshots of the web app : 
